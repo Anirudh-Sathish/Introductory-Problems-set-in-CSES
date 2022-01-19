@@ -4,4 +4,4 @@ Over here i will have the codes for the solution for the questions of Introducto
 Questions Solved 
 
 1.Wierd Algorithm
-2.Missubg Number
+2.Missing Number
