@@ -7,3 +7,4 @@ Questions Solved
 2.Missing Number
 3.Repetitions
 4.Increasing Array 
+5.Permutation 
