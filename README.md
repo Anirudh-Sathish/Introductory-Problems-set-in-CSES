@@ -8,3 +8,4 @@ Questions Solved
 3.Repetitions
 4.Increasing Array 
 5.Permutation 
+6.Number Spiral
