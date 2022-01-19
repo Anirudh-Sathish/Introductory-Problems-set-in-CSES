@@ -6,3 +6,4 @@ Questions Solved
 1.Wierd Algorithm
 2.Missing Number
 3.Repetitions
+4.Increasing Array 
