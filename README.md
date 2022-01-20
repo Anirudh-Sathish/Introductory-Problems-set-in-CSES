@@ -9,3 +9,4 @@ Questions Solved
 4.Increasing Array 
 5.Permutation 
 6.Number Spiral
+7.Two Knights
