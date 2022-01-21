@@ -10,3 +10,4 @@ Questions Solved
 5.Permutation 
 6.Number Spiral
 7.Two Knights
+8.Two Sets
