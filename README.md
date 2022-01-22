@@ -12,3 +12,4 @@ Questions Solved
 7.Two Knights
 8.Two Sets
 9.Bit Strings 
+10.Trailing Zeroes
