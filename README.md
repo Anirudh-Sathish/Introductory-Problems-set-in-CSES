@@ -3,14 +3,14 @@ Over here i will have the codes for the solution for the questions of Introducto
 
 Questions Solved 
 
-1.Wierd Algorithm
-2.Missing Number
-3.Repetitions
-4.Increasing Array 
-5.Permutation 
-6.Number Spiral
-7.Two Knights
-8.Two Sets
-9.Bit Strings 
-10.Trailing Zeroes
-11.Coin Piles
+<br>1.Wierd Algorithm
+<br>2.Missing Number
+<br>3.Repetitions
+<br>4.Increasing Array 
+<br>5.Permutation 
+<br>6.Number Spiral
+<br>7.Two Knights
+<br>8.Two Sets
+<br>9.Bit Strings 
+<br>10.Trailing Zeroes
+<br>11.Coin Piles
